@@ -2,10 +2,10 @@
 
 Undergraduate research group from **De La Salle University, Manila** and **De La Salle University – Dasmariñas**.
 
-Ralpha Almarza   [@ralph-almarza](https://github.com/ralph-almarza)     <br>
+Ralph Almarza   [@ralph-almarza](https://github.com/ralph-almarza)     <br>
 Enrique Aragon   [@ena0553](https://github.com/ena0553)                 <br>
 Stephen Borja    [@OutForMilks](https://github.com/OutForMilks)         <br>
-Mr Dog           [@JustinChing30](https://github.com/JustinChing30)     <br>
+Justin Ching     [@JustinChing30](https://github.com/JustinChing30)     <br>
 Erin Chua        [@chua-e](https://github.com/chua-e)                   <br>
 
 \* **Correspondence**. Talk to Stephen via [`stephen_borja_a@dlsu.edu.ph`](mailto:stephen_borja_a@dlsu.edu.ph). <br>
